@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>false</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slidewood</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube_over,cube,fade</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>490</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/twist/</ImageTemplate>
+            <ImageTemplateName>Twist</ImageTemplateName>
+            <ImageWidth>680</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/DOSSIER WEB/PROJET FERME/docWoslide/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/DOSSIER WEB/PROJET FERME/docWoslide</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#f2c409</TemplateColor>
+            <TemplateFont>Ubuntu Condensed</TemplateFont>
+            <TemplateName>twist</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/agneau.png</url>
+                <title>Voici notre Agneau</title>
+                <userurl>Vache.html</userurl>
+                <filesize>469348</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imgChevre1.png</url>
+                <title>Nos produits chauvins</title>
+                <userurl>Vache.html</userurl>
+                <filesize>538874</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imgOeuf.png</url>
+                <title>Que des bons produits chez nous. Faites y un tour</title>
+                <userurl>Poule.html</userurl>
+                <filesize>322786</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imgPort1.png</url>
+                <title>Que des bons produits chez nous. Faites y un tour</title>
+                <userurl>Porcs.html</userurl>
+                <filesize>519484</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imgPoule2.png</url>
+                <title>Que des bons produits chez nous. Faites y un tour</title>
+                <filesize>571983</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imgVache1.png</url>
+                <title>Que des bons produits chez nous. Faites y un tour</title>
+                <userurl>Vache.html</userurl>
+                <filesize>4530125</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imgVache2.png</url>
+                <title>Que des bons produits chez nous. Faites y un tour</title>
+                <userurl>Vache.html</userurl>
+                <filesize>2535935</filesize>
+            </Image>
+            <Image>
+                <url>E:/DOSSIER WEB/PROJET FERME/imagesSlide/imPoule1.png</url>
+                <title>Que des bons produits chez nous. Faites y un tour</title>
+                <userurl>Poule.html</userurl>
+                <filesize>1020492</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
